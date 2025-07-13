@@ -1,3 +1,5 @@
+**This project is made by TerrorBhai.**
+
 # <p align="center">📺 hianime-API</p>
 
 <div align="center">
